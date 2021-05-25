@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.container{
+    display: none;
+    margin: 150px;
+    padding: 20px;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.close_btn{
+    float: right;
+    width: 60px;
+    height: 40px;
+}
+
+.close_btn:hover{
+    cursor: pointer;
+}
